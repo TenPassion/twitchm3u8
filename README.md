@@ -2,6 +2,8 @@
 <span class="badge-buymeacoffee"> <a href="https://www.buymeacoffee.com/tenpassion" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a> </span> <span class="badge-patreon"><a href="https://www.patreon.com/TenPassion" title="Donate to this project using Patreon"> <img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a></span> <a href=""><img src="https://github.com/TenPassion/twitchm3u8/assets/142400798/614ec2eb-5a41-480f-ba53-8f7a1d266e84" width="276" height="120" align="right" /></a>
 
 # twitchm3u8
+
+
 Stream m3u8 content to Twitch effortlessly with this Python script. Enter your Twitch stream key and the M3U8 stream URL, and the script handles the rest. It uses Streamlink and FFmpeg for a seamless streaming experience.
 
 # Twitch Stream to M3U8 Stream
