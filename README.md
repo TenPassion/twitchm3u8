@@ -60,7 +60,7 @@ We welcome contributions to this project! If you'd like to contribute, please fo
 2. Clone the forked repository to your local machine:
 
 ```bash
-git clone https://github.com/YourUsername/twitchm3u8.git
+git clone https://github.com/TenPassion/twitchm3u8.git
 cd twitchm3u8
 ```
 
