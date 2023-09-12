@@ -99,3 +99,5 @@ For the full text of the MIT License, please visit [LICENSE](LICENSE).
 # Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=tenpassion/twitchm3u8&type=Date)](https://star-history.com/#tenpassion/twitchm3u8&Date)
+
+![](https://komarev.com/ghpvc/?Tenpassion=TenPassion&color=green)
