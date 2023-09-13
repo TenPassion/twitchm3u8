@@ -46,7 +46,7 @@ pip install -r requirements.txt
 4. Run the script:
 
 ```bash
-python twitch_m3u8.py
+python twitchm3u8.py
 ```
 
 4. Follow the on-screen prompts to enter your Twitch stream key and the M3U8 stream URL.
