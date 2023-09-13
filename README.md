@@ -22,8 +22,9 @@ A Python script for streaming video content to Twitch using an M3U8 stream URL.
 
 
 # Overview
-This Python script allows you to stream video content to Twitch using your Twitch stream key and an M3U8 stream URL. It ut## Installation
+This Python script allows you to stream video content to Twitch using your Twitch stream key and an M3U8 stream URL. 
 
+# Installation
 
 Ensure that you have FFmpeg installed on your system as well.
 
