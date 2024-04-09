@@ -43,7 +43,7 @@ cd twitchm3u8
 pip install -r requirements.txt
 ```
 
-4. Run the script:
+3. Run the script:
 
 ```bash
 python twitchm3u8.py
